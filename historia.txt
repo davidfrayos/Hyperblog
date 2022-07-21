@@ -1,14 +1,11 @@
 Esta es la historia de david fray, tiene 25 anos
 
 hoy hablaremos de su vida y obra maestra.
-<<<<<<< HEAD
 experimento 1
 
 experimento 2
 
 Master 1
-=======
 Master 1
 
 master 2
->>>>>>> af65670 (master 2)

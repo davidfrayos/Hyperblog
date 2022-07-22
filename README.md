@@ -3,3 +3,4 @@
 
 ## Cuando sientas que ya  no puedes mas, mira este siguiente video [motivacion]
 [motivacion]: http://https://www.youtube.com/watch?v=QYQBbq6hXMo "sigue adelante"
+creado por el increible platzi team
